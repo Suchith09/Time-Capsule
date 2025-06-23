@@ -12,7 +12,7 @@ A secure desktop note-taking app using Python, Tkinter, and the Cryptography lib
 - Tkinter (GUI)
 - Cryptography (Fernet encryption)
 
-## ▶ How to Run
+##  How to Run
 1. Clone the repo or download ZIP
 2. Install dependencies: `pip install cryptography`
 3. Run the app: `python main.py`
