@@ -1,10 +1,10 @@
-# 🌌 Digital Time Capsule Web App
+#  Digital Time Capsule Web App
 
 A creative, personal, and secure web app to store future messages — think of it like a letter to your future self! Users can write messages, choose an unlock date, and optionally add password protection. When the unlock date arrives, they can view and decrypt their saved messages.
 
 ---
 
-## 🔐 Features
+## Features
 
 -  Add title, message, and select a future unlock date
 -  Optional password protection using AES encryption (via CryptoJS)
@@ -58,6 +58,7 @@ A creative, personal, and secure web app to store future messages — think of i
     Built with using HTML, CSS, and JavaScript by [Suchith]
 
  
+
 
 
 
