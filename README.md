@@ -55,9 +55,10 @@ A creative, personal, and secure web app to store future messages — think of i
 
  Credits:
 
-    Built with 💖 using HTML, CSS, and JavaScript by [Suchith]
+    Built with using HTML, CSS, and JavaScript by [Suchith]
 
- Live Demo (if hosted on GitHub Pages):
+ 
+
 
 
 
